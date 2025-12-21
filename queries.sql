@@ -44,3 +44,4 @@ FROM bookings b
 INNER JOIN vehicles v ON v.vehicle_id = b.vehicle_id
 GROUP BY vehicle_name
 HAVING COUNT(b.booking_id) > 2;
+
