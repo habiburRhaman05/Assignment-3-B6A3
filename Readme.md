@@ -1,7 +1,7 @@
 
 
 
-# 🚕 Vehicle Rental System - Database Design & SQL Queries
+# 🚕 Vehicle Rental System - ERD Design & SQL Queries
 
 
 
